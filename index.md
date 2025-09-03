@@ -1,28 +1,34 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Medical Image Analysis
 
-### CS224n: Natural Language Processing with Deep Learning
+### AI-assisted mole detection for online dermatology triage in telemedicine settings
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Implementation of the research project for my Master's in Radiology and Diagnostic Imaging from the University of Alberta. Please feel free to take a look at my thesis here:[https://doi.org/10.7939/r3-yhtz-p450](https://doi.org/10.7939/r3-yhtz-p450) !
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Debarpan98/mole-detection/)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+<div style="text-align: justify">This study proposes a triaging system that enables early identification of skin moles to ease the follow-up treatment and diagnostic procedures in a physical setting. A comparative evaluation of the prediction performance of the Nested Hierarchical Transformer (NesT) against state-of-the-art competitors on images acquired from both clinical visits as well as the publicly available DANDERM dataset has been presented. Multiple experiments across different models yielded a macro average recall value as high as 0.955, along with overall accuracy and macro average precision values of 0.962 and 0.958, respectively.</div>
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+Paper: The findings of this study were published in the journal, Informatics in Medicine Unlocked (2023). Please feel free to take a look at it here: [https://doi.org/10.1016/j.imu.2023.101311](https://doi.org/10.1016/j.imu.2023.101311)!
 
-<center><img src="images/nlp.png"/></center>
+<br>
+<center><img src="images/nest.png"/></center>
+<br>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Evaluation of Retinal Vessel Segmentation with Dark Channel Prior dehazing (CMPUT 610 course project)
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Debarpan98/retSeg_dehaze)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">This project studies the effect of a dehazing technique based on dark channel prior (DCP) along with other traditional techniques on different state-of-art deep learning models for retinal vessel segmentation. The DRIVE dataset has been chosen for this project as it is the most widely used and popular benchmark dataset for retinal vessel segmentation. 
 
-<center><img src="images/BERT-classification.png"/></center>
+While using modern cameras for retinal image acquisition, there often occurs some reflections from the retinal surface that causes luminosity and contrast variations. These irregularities in illumination might introduce distortions in the acquired image thereby distorting the anatomical structures. So, the illumination correction proposed by Savelli et. al, which draws a connection between shadows and haze, is used to reduce these illumination defects in this project. Since the performance of this method had only been tested on older retinal vessel segmentation algorithms, we attempt to utilize the results obtained from this method to train modern vessel segmentation networks and compare their performances.</div>
 
+<br>
+<center><img src="images/DCP segmentation.jpg" alt="DCP Segmentation"
+     style="display:block; margin:0 auto; width:60%; height:auto;"></center>
+<br>
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
 
