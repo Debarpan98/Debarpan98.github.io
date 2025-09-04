@@ -38,10 +38,12 @@ Paper: The findings of this study were published in the journal, Informatics in 
 
 <div style="text-align: justify"> This project implements an end-to-end U-Net segmentation framework for cancerous tissues from Whole Slide Histopathology Images (WSI) of liver. The liver is often associated with metastatic spread of cancer. 90% of primary liver cancer is represented by Hepatocellular Carcinoma (HCC) and it is amongst the leading sources of cancer mortality globally. Successful segmentation of the viable tumor burden is necessary to clinically evaluate response rates for chemotherapy. The images used to implement this study was taken from a subset of the Pathology Artificial Intelligence Platform (PAIP) 2019 challenge dataset. A maximum mean dice score of 0.62 was obtained from 3 WSI test images. </div>
 
+<br>
 <div style="text-align: center;">
   <img src="images/Unet liver.jpg" alt="First Image" style="width:45%; display:inline-block;">
   <img src="images/workflow liver.jpg" alt="Second Image" style="width:45%; display:inline-block;">
 </div>
+<br>
 
 A poster on this project was presented at the CEPS Undergraduate Student Poster Day at University of Guelph. Please feel free to view it [here](https://github.com/Debarpan98/Mitacs-Summer-Project/blob/master/CEPSPoster_Mitacs%20GRI.jpg) !
 
@@ -76,12 +78,14 @@ The findings of this study were published in The Journal of Wound Care (2025). P
 
 <div style="text-align: justify">PPI derived from NIRS strongly correlates with PVR and offers a viable, non-invasive alternative to ABI, particularly in populations where interpretation of ABI is limited. Broader clinical implementation could redefine vascular screening strategies.</div>
 
-The findings of this study were published in The International Journal of Tissue Repair (2025). Please find the full-print here: [https://doi.org/10.63676/m0ww6304](https://doi.org/10.63676/m0ww6304)
-
 <div style="text-align: center;">
   <img src="images/ppi1.jpg" alt="First Image" style="width:45%; display:inline-block;">
   <img src="images/ppi2.jpg" alt="Second Image" style="width:45%; display:inline-block;">
 </div>
+
+<br>
+The findings of this study were published in The International Journal of Tissue Repair (2025). Please find the full-print here: [https://doi.org/10.63676/m0ww6304](https://doi.org/10.63676/m0ww6304)
+<br>
 
 ---
 ### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
