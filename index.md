@@ -10,11 +10,11 @@ Implementation of the research project for my Master's in Radiology and Diagnost
 
 <div style="text-align: justify">This study proposes a triaging system that enables early identification of skin moles to ease the follow-up treatment and diagnostic procedures in a physical setting. A comparative evaluation of the prediction performance of the Nested Hierarchical Transformer (NesT) against state-of-the-art competitors on images acquired from both clinical visits as well as the publicly available DANDERM dataset has been presented. Multiple experiments across different models yielded a macro average recall value as high as 0.955, along with overall accuracy and macro average precision values of 0.962 and 0.958, respectively.</div>
 
-Paper: The findings of this study were published in the journal, Informatics in Medicine Unlocked (2023). Please feel free to take a look at it here: [https://doi.org/10.1016/j.imu.2023.101311](https://doi.org/10.1016/j.imu.2023.101311)!
-
 <br>
 <center><img src="images/NesT_arch.jpg"/></center>
 <br>
+
+Paper: The findings of this study were published in the journal, Informatics in Medicine Unlocked (2023). Please feel free to take a look at it here: [https://doi.org/10.1016/j.imu.2023.101311](https://doi.org/10.1016/j.imu.2023.101311)!
 
 ---
 
