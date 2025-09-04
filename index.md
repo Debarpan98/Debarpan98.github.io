@@ -39,10 +39,9 @@ Paper: The findings of this study were published in the journal, Informatics in 
 <div style="text-align: justify"> This project implements an end-to-end U-Net segmentation framework for cancerous tissues from Whole Slide Histopathology Images (WSI) of liver. The liver is often associated with metastatic spread of cancer. 90% of primary liver cancer is represented by Hepatocellular Carcinoma (HCC) and it is amongst the leading sources of cancer mortality globally. Successful segmentation of the viable tumor burden is necessary to clinically evaluate response rates for chemotherapy. The images used to implement this study was taken from a subset of the Pathology Artificial Intelligence Platform (PAIP) 2019 challenge dataset. A maximum mean dice score of 0.62 was obtained from 3 WSI test images. </div>
 
 <br>
-<div style="text-align: center;">
-  <img src="images/Unet liver.jpg" alt="First Image" style="width:45%; display:inline-block;">
-  <img src="images/workflow liver.jpg" alt="Second Image" style="width:45%; display:inline-block;">
-</div>
+<center><img src="images/Unet liver.jpg"/></center>
+<br>
+<center><img src="images/workflow liver.jpg"/></center>
 <br>
 
 A poster on this project was presented at the CEPS Undergraduate Student Poster Day at University of Guelph. Please feel free to view it [here](https://github.com/Debarpan98/Mitacs-Summer-Project/blob/master/CEPSPoster_Mitacs%20GRI.jpg) !
@@ -61,7 +60,8 @@ The SnapshotNIR device by Kent Imaging Inc is used to assess tissue oxygenation 
 <div style="text-align: justify">The dataset identified 19,192 wounds from 6147 patients treated by numerous practitioners in 22 US states, with NIRS imaging used in 2165 patients (35%) and 4060 wounds (21%). The rationale for NIRS use included: microcirculation assessment and vascular referral (8.89%); debridement necessity and effectiveness (29.16%); tissue oxygenation trending (66.65%); and care plan evaluation (92.98%). NIRS impacted medical decision-making and plan of care (PoC) changes including: palliative (5.22%); maintenance (20.76%); healable (17.39%); hospice (0.64%); additional studies (11.6%); vascular consultation or surgical referral (5.44%); and/or vascular studies (10%). The healing rate was 36.5% for pressure ulcers, 38.15% for lower extremity wounds and 39.68% for all wounds, compared to the published healing rate of 22.5%; this represents an improvement of 62%–76% in healing rates compared with the previously published rate.</div>
 
 <br>
-<center><img src="images/HbHbO.jpg"/></center>
+<img src="images/HbHbO.jpg" alt="DCP Segmentation"
+     style="display:block; margin:0 auto; width:70%; height:auto;">
 <br>
 
 The findings of this study were published in The Journal of Wound Care (2025). Please find the full-print here: [https://doi.org/10.12968/jowc.2025.0172](https://doi.org/10.12968/jowc.2025.0172) 
@@ -78,59 +78,16 @@ The findings of this study were published in The Journal of Wound Care (2025). P
 
 <div style="text-align: justify">PPI derived from NIRS strongly correlates with PVR and offers a viable, non-invasive alternative to ABI, particularly in populations where interpretation of ABI is limited. Broader clinical implementation could redefine vascular screening strategies.</div>
 
-<div style="text-align: center;">
-  <img src="images/ppi1.jpg" alt="First Image" style="width:45%; display:inline-block;">
-  <img src="images/ppi2.jpg" alt="Second Image" style="width:45%; display:inline-block;">
-</div>
-
 <br>
+<center><img src="images/ppi1.jpg"/></center>
+<br>
+<center><img src="images/ppi2.jpg"/></center>
+<br>
+
+
 The findings of this study were published in The International Journal of Tissue Repair (2025). Please find the full-print here: [https://doi.org/10.63676/m0ww6304](https://doi.org/10.63676/m0ww6304)
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
-
----
-### Predict Breast Cancer with RF, PCA and SVM using Python
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
-
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
-
----
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
-
----
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
