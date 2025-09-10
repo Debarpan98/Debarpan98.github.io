@@ -4,7 +4,7 @@
 
 ### AI-assisted mole detection for online dermatology triage in telemedicine settings
 
-Implementation of the research project for my Master's in Radiology and Diagnostic Imaging from the University of Alberta. Please feel free to take a look at my thesis here:[https://doi.org/10.7939/r3-yhtz-p450](https://doi.org/10.7939/r3-yhtz-p450) !
+Implementation of the research project for my Master's in Radiology and Diagnostic Imaging at the University of Alberta. Please feel free to take a look at my thesis here:[https://doi.org/10.7939/r3-yhtz-p450](https://doi.org/10.7939/r3-yhtz-p450) !
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Debarpan98/mole-detection/)
 
