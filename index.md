@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Medical Image Analysis + Computer Vision
+## Computer Vision
 
 ### AI-assisted mole detection for online dermatology triage in telemedicine settings
 
