@@ -30,7 +30,7 @@ Paper: The findings of this study were published in the journal, Informatics in 
 <center><img src="images/DCP segmentation.jpg"/></center>
 <br>
 
-Please feel free to checkout a explanatory write-up of the project along with the results [here](https://github.com/Debarpan98/retSeg_dehaze/blob/main/WriteUp.pdf)!
+Please feel free to checkout an explanatory write-up of the project along with the results [here](https://github.com/Debarpan98/retSeg_dehaze/blob/main/WriteUp.pdf)!
 
 ---
 
